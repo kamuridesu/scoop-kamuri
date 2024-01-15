@@ -14,4 +14,5 @@ scoop install microsoft-teams
 scoop install scoop-search
 scoop install nomacs
 scoop install mpc-hc-fork
+scoop install telegram
 echo Done!
