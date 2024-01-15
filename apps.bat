@@ -1,5 +1,7 @@
 @echo off
 echo Initial setup...
+powershell -command "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser"
+powershell -command "Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression"
 scoop install git
 scoop add bucket extras
 echo Installing packages
