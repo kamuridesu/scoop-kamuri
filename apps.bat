@@ -12,3 +12,4 @@ scoop install microsoft-teams
 scoop install scoop-search
 scoop install nomacs
 scoop install mpc-hc-fork
+echo Done!
