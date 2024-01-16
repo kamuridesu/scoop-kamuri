@@ -15,6 +15,7 @@ scoop install scoop-search
 scoop install nomacs
 scoop install mpc-hc-fork
 scoop install telegram
+scoop install vim
 echo Installing Development tools
 scoop install go
 scoop install maven
