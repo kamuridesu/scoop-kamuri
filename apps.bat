@@ -6,6 +6,7 @@ scoop install git
 scoop bucket add extras
 scoop bucket add java
 echo Installing basic packages
+scoop install clink
 scoop install firefox
 scoop install qbittorrent
 scoop install anydesk
@@ -22,4 +23,6 @@ scoop install python
 scoop install vscode
 scoop install openjdk17
 scoop install nekoray
+echo Setting up clink
+clink autorun install
 echo Done!
