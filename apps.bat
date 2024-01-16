@@ -16,6 +16,7 @@ scoop install nomacs
 scoop install mpc-hc-fork
 scoop install telegram
 scoop install vim
+scoop install megabasterd
 echo Installing Development tools
 scoop install go
 scoop install maven
@@ -24,6 +25,12 @@ scoop install python
 scoop install vscode
 scoop install openjdk17
 scoop install nekoray
+scoop intall nodejs-lts
+scoop install ffmpeg
+scoop install openlens
+scoop install kubectl
+scoop install sqlitebrowser
 echo Setting up clink
+scoop install clink-completions
 clink autorun install
 echo Done!
