@@ -1,36 +1,41 @@
 @echo off
 echo Initial setup...
-powershell -command "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser"
-powershell -command "Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression"
-scoop install git
-scoop bucket add extras
-scoop bucket add java
+call powershell -command "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser"
+call powershell -command "Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression"
+call scoop install git
+call scoop bucket add extras
+call scoop bucket add java
 echo Installing basic packages
-scoop install clink
-scoop install firefox
-scoop install qbittorrent
-scoop install anydesk
-scoop install microsoft-teams
-scoop install scoop-search
-scoop install nomacs
-scoop install mpc-hc-fork
-scoop install telegram
-scoop install vim
-scoop install megabasterd
+call scoop install clink
+call scoop install firefox
+call scoop install qbittorrent
+call scoop install anydesk
+call scoop install microsoft-teams
+call scoop install scoop-search
+call scoop install nomacs
+call scoop install mpc-hc-fork
+call scoop install telegram
+call scoop install vim
+call scoop install megabasterd
 echo Installing Development tools
-scoop install go
-scoop install maven
-scoop install gcc
-scoop install python
-scoop install vscode
-scoop install openjdk17
-scoop install nekoray
-scoop intall nodejs-lts
-scoop install ffmpeg
-scoop install openlens
-scoop install kubectl
-scoop install sqlitebrowser
+call scoop install go
+call scoop install maven
+call scoop install gcc
+call scoop install python
+call scoop install vscode
+call scoop install openjdk17
+call scoop install nekoray
+call scoop install nodejs-lts
+call scoop install ffmpeg
+call scoop install openlens
+call scoop install kubectl
+call scoop install sqlitebrowser
+call scoop install mpv
+call scoop install fzf
+call scoop install aria2
+call scoop install wget
+call scoop install ani-cli
 echo Setting up clink
-scoop install clink-completions
-clink autorun install
+call scoop install clink-completions
+call clink autorun install
 echo Done!
