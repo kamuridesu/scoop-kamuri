@@ -1,0 +1,295 @@
+{
+    "buckets": [
+        {
+            "Name": "main",
+            "Source": "https://github.com/ScoopInstaller/Main",
+            "Updated": {
+                "value": "\/Date(1718973093000)\/",
+                "DisplayHint": 2,
+                "DateTime": "sexta-feira, 21 de junho de 2024 09:31:33"
+            },
+            "Manifests": 1327
+        },
+        {
+            "Name": "extras",
+            "Source": "https://github.com/ScoopInstaller/Extras",
+            "Updated": {
+                "value": "\/Date(1718973200000)\/",
+                "DisplayHint": 2,
+                "DateTime": "sexta-feira, 21 de junho de 2024 09:33:20"
+            },
+            "Manifests": 2039
+        },
+        {
+            "Name": "java",
+            "Source": "https://github.com/ScoopInstaller/Java",
+            "Updated": {
+                "value": "\/Date(1718759305000)\/",
+                "DisplayHint": 2,
+                "DateTime": "ter�a-feira, 18 de junho de 2024 22:08:25"
+            },
+            "Manifests": 280
+        }
+    ],
+    "apps": [
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "7zip",
+            "Version": "24.07",
+            "Updated": "\/Date(1718982355117)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "ani-cli",
+            "Version": "4.8",
+            "Updated": "\/Date(1711671889917)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "anydesk",
+            "Version": "8.0.10",
+            "Updated": "\/Date(1714781059050)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "aria2",
+            "Version": "1.37.0-1",
+            "Updated": "\/Date(1711671976093)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "clink",
+            "Version": "1.6.16",
+            "Updated": "\/Date(1718647360392)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "clink-completions",
+            "Version": "0.5.3",
+            "Updated": "\/Date(1718647363765)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "dark",
+            "Version": "3.14",
+            "Updated": "\/Date(1711670844790)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "discord",
+            "Version": "1.0.9035-18",
+            "Updated": "\/Date(1715255134050)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "ffmpeg",
+            "Version": "7.0.1",
+            "Updated": "\/Date(1717288621835)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "firefox",
+            "Version": "124.0.1",
+            "Updated": "\/Date(1718981505603)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "flameshot",
+            "Version": "12.1.0",
+            "Updated": "\/Date(1711930370413)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "fzf",
+            "Version": "0.53.0",
+            "Updated": "\/Date(1717784281193)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "gcc",
+            "Version": "13.2.0",
+            "Updated": "\/Date(1711670836103)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "git",
+            "Version": "2.45.2",
+            "Updated": "\/Date(1717588993991)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "go",
+            "Version": "1.22.4",
+            "Updated": "\/Date(1717589042445)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "innounp",
+            "Version": "0.50",
+            "Updated": "\/Date(1718984982440)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "kubectl",
+            "Version": "1.30.2",
+            "Updated": "\/Date(1718308425648)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "lens",
+            "Version": "2024.5.271333-latest",
+            "Updated": "\/Date(1717288654047)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "maven",
+            "Version": "3.9.8",
+            "Updated": "\/Date(1718647381828)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "megabasterd",
+            "Version": "8.21",
+            "Updated": "\/Date(1711670530183)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "mpc-hc-fork",
+            "Version": "2.3.0",
+            "Updated": "\/Date(1718308436377)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "mpv",
+            "Version": "0.38.0",
+            "Updated": "\/Date(1713832305075)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "nekoray",
+            "Version": "3.26",
+            "Updated": "\/Date(1711671024208)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "nodejs-lts",
+            "Version": "20.15.0",
+            "Updated": "\/Date(1718982402979)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "nomacs",
+            "Version": "3.16.1709",
+            "Updated": "\/Date(1711670414068)\/"
+        },
+        {
+            "Info": "",
+            "Source": "java",
+            "Name": "openjdk17",
+            "Version": "17.0.2-8",
+            "Updated": "\/Date(1711670997149)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "opentofu",
+            "Version": "1.7.2",
+            "Updated": "\/Date(1717589057358)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "python",
+            "Version": "3.12.4",
+            "Updated": "\/Date(1717784321385)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "qbittorrent",
+            "Version": "4.6.5",
+            "Updated": "\/Date(1717289087763)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "scoop-search",
+            "Version": "1.4.1",
+            "Updated": "\/Date(1711670388725)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "sqlitebrowser",
+            "Version": "3.12.2",
+            "Updated": "\/Date(1711671159826)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "stremio",
+            "Version": "4.4.168",
+            "Updated": "\/Date(1717458623601)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "sudo",
+            "Version": "0.2020.01.26",
+            "Updated": "\/Date(1718984942261)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "telegram",
+            "Version": "5.1.7",
+            "Updated": "\/Date(1718982374400)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "vim",
+            "Version": "9.1.0363",
+            "Updated": "\/Date(1713832378326)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "vscode",
+            "Version": "1.90.2",
+            "Updated": "\/Date(1718982437709)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "windirstat",
+            "Version": "1.1.2",
+            "Updated": "\/Date(1717614698548)\/"
+        }
+    ]
+}
