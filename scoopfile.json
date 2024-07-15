@@ -74,7 +74,7 @@
             "Info": "",
             "Name": "firefox",
             "Updated": "2024-07-13T22:35:16.8692234-03:00",
-            "Source": null,
+            "Source": "extras",
             "Version": "124.0.1"
         },
         {
@@ -195,13 +195,6 @@
             "Updated": "2024-07-11T15:20:55.5031632-03:00",
             "Source": "main",
             "Version": "1.7.3"
-        },
-        {
-            "Info": "Install failed",
-            "Name": "proxychains",
-            "Updated": "2024-06-21T13:23:30.9550749-03:00",
-            "Source": null,
-            "Version": null
         },
         {
             "Info": "",
