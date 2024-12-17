@@ -3,356 +3,425 @@
         {
             "Name": "main",
             "Source": "https://github.com/ScoopInstaller/Main",
-            "Updated": "2024-11-19T09:32:26-03:00",
+            "Updated": {
+                "value": "\/Date(1734453110000)\/",
+                "DisplayHint": 2,
+                "DateTime": "Tuesday, December 17, 2024 1:31:50 PM"
+            },
             "Manifests": 1348
         },
         {
             "Name": "extras",
             "Source": "https://github.com/ScoopInstaller/Extras",
-            "Updated": "2024-11-19T09:34:42-03:00",
-            "Manifests": 2100
+            "Updated": {
+                "value": "\/Date(1734453201000)\/",
+                "DisplayHint": 2,
+                "DateTime": "Tuesday, December 17, 2024 1:33:21 PM"
+            },
+            "Manifests": 2106
         },
         {
             "Name": "nonportable",
             "Source": "https://github.com/ScoopInstaller/Nonportable",
-            "Updated": "2024-11-19T09:57:38-03:00",
+            "Updated": {
+                "value": "\/Date(1734453870000)\/",
+                "DisplayHint": 2,
+                "DateTime": "Tuesday, December 17, 2024 1:44:30 PM"
+            },
             "Manifests": 127
         },
         {
             "Name": "java",
             "Source": "https://github.com/ScoopInstaller/Java",
-            "Updated": "2024-11-18T17:19:58-03:00",
+            "Updated": {
+                "value": "\/Date(1734366306000)\/",
+                "DisplayHint": 2,
+                "DateTime": "Monday, December 16, 2024 1:25:06 PM"
+            },
             "Manifests": 294
         },
         {
             "Name": "games",
             "Source": "https://github.com/Calinou/scoop-games",
-            "Updated": "2024-11-19T09:31:19-03:00",
-            "Manifests": 332
+            "Updated": {
+                "value": "\/Date(1734452995000)\/",
+                "DisplayHint": 2,
+                "DateTime": "Tuesday, December 17, 2024 1:29:55 PM"
+            },
+            "Manifests": 335
         }
     ],
     "apps": [
         {
-            "Updated": "2024-08-13T10:30:55.2897392-03:00",
-            "Version": "24.08",
             "Info": "",
+            "Source": "main",
             "Name": "7zip",
-            "Source": "main"
+            "Version": "24.09",
+            "Updated": "\/Date(1734435989496)\/"
         },
         {
-            "Updated": "2024-11-15T20:04:35.8986781-03:00",
-            "Version": "1.4.2",
             "Info": "",
-            "Name": "abdownloadmanager",
-            "Source": "extras"
-        },
-        {
-            "Updated": "2024-10-12T15:15:11.6992539-03:00",
-            "Version": "4.9",
-            "Info": "",
+            "Source": "extras",
             "Name": "ani-cli",
-            "Source": "extras"
+            "Version": "4.9",
+            "Updated": "\/Date(1734425164269)\/"
         },
         {
-            "Updated": "2024-09-21T09:27:35.2896932-03:00",
-            "Version": "8.1.0",
             "Info": "",
+            "Source": "extras",
             "Name": "anydesk",
-            "Source": "extras"
+            "Version": "9.0.1",
+            "Updated": "\/Date(1734425170457)\/"
         },
         {
-            "Updated": "2024-03-28T21:26:16.0937923-03:00",
-            "Version": "1.37.0-1",
             "Info": "",
+            "Source": "main",
             "Name": "aria2",
-            "Source": "main"
+            "Version": "1.37.0-1",
+            "Updated": "\/Date(1734425171598)\/"
         },
         {
-            "Updated": "2024-11-15T17:10:11.6109546-03:00",
-            "Version": "2024.11.0",
             "Info": "",
+            "Source": "extras",
+            "Name": "barrier",
+            "Version": "2.4.0",
+            "Updated": "\/Date(1734444575209)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
             "Name": "bitwarden-cli",
-            "Source": "main"
+            "Version": "2024.12.0",
+            "Updated": "\/Date(1734425176864)\/"
         },
         {
-            "Updated": "2024-10-12T15:15:25.0574082-03:00",
-            "Version": "2024-09-24",
             "Info": "",
+            "Source": "main",
             "Name": "cacert",
-            "Source": "main"
+            "Version": "2024-11-26",
+            "Updated": "\/Date(1734425178838)\/"
         },
         {
-            "Updated": "2024-11-15T20:04:37.7081291-03:00",
-            "Version": "1.7.5",
             "Info": "",
+            "Source": "main",
             "Name": "clink",
-            "Source": "main"
+            "Version": "1.7.6",
+            "Updated": "\/Date(1734425181713)\/"
         },
         {
-            "Updated": "2024-10-15T21:21:49.7868918-03:00",
-            "Version": "0.6.0",
             "Info": "",
+            "Source": "main",
             "Name": "clink-completions",
-            "Source": "main"
+            "Version": "0.6.0",
+            "Updated": "\/Date(1734425183526)\/"
         },
         {
-            "Updated": "2024-11-15T20:05:14.9524404-03:00",
-            "Version": "2.12",
             "Info": "",
+            "Source": "extras",
             "Name": "cpu-z",
-            "Source": "extras"
+            "Version": "2.12",
+            "Updated": "\/Date(1734425190980)\/"
         },
         {
-            "Updated": "2024-03-28T21:07:24.7903162-03:00",
-            "Version": "3.14",
             "Info": "",
+            "Source": "main",
             "Name": "dark",
-            "Source": "main"
+            "Version": "3.14",
+            "Updated": "\/Date(1734425192636)\/"
         },
         {
-            "Updated": "2024-11-16T21:59:12.1681228-03:00",
-            "Version": "1.0.9156-20",
             "Info": "",
+            "Source": "extras",
             "Name": "discord",
-            "Source": "extras"
+            "Version": "1.0.9156-20",
+            "Updated": "\/Date(1734425203923)\/"
         },
         {
-            "Updated": "2024-09-21T09:27:44.0887486-03:00",
-            "Version": "27.3.1",
             "Info": "",
+            "Source": "main",
             "Name": "docker",
-            "Source": "main"
+            "Version": "27.4.0",
+            "Updated": "\/Date(1734425209580)\/"
         },
         {
-            "Updated": "2024-09-24T21:49:38.8986695-03:00",
-            "Version": "2409",
             "Info": "",
+            "Source": "games",
             "Name": "dolphin",
-            "Source": "games"
+            "Version": "2412",
+            "Updated": "\/Date(1734425219487)\/"
         },
         {
-            "Updated": "2024-10-01T11:58:15.8979741-03:00",
-            "Version": "7.1",
             "Info": "",
+            "Source": "games",
+            "Name": "epic-games-launcher",
+            "Version": "17.2.0",
+            "Updated": "\/Date(1734467329102)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
             "Name": "ffmpeg",
-            "Source": "main"
+            "Version": "7.1",
+            "Updated": "\/Date(1734425231669)\/"
         },
         {
-            "Updated": "2024-03-31T21:12:50.4138091-03:00",
-            "Version": "12.1.0",
             "Info": "",
+            "Source": "extras",
+            "Name": "firefox",
+            "Version": "133.0.3",
+            "Updated": "\/Date(1734396924643)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
             "Name": "flameshot",
-            "Source": "extras"
+            "Version": "12.1.0",
+            "Updated": "\/Date(1734425239483)\/"
         },
         {
-            "Updated": "2024-11-15T20:05:17.0284934-03:00",
-            "Version": "0.56.3",
             "Info": "",
+            "Source": "main",
             "Name": "fzf",
-            "Source": "main"
+            "Version": "0.57.0",
+            "Updated": "\/Date(1734425242577)\/"
         },
         {
-            "Updated": "2024-03-28T21:07:16.1035974-03:00",
-            "Version": "13.2.0",
             "Info": "",
+            "Source": "main",
             "Name": "gcc",
-            "Source": "main"
+            "Version": "13.2.0",
+            "Updated": "\/Date(1734425261279)\/"
         },
         {
-            "Updated": "2024-10-31T09:02:52.9714655-03:00",
-            "Version": "2.47.0.2",
             "Info": "",
+            "Source": "main",
             "Name": "git",
-            "Source": "main"
+            "Version": "2.47.1",
+            "Updated": "\/Date(1734425035579)\/"
         },
         {
-            "Updated": "2024-11-15T20:06:09.9840393-03:00",
-            "Version": "1.23.3",
             "Info": "",
+            "Source": "main",
             "Name": "go",
-            "Source": "main"
+            "Version": "1.23.4",
+            "Updated": "\/Date(1734425296925)\/"
         },
         {
-            "Updated": "2024-11-15T20:06:15.8120712-03:00",
-            "Version": "3.16.3",
             "Info": "",
+            "Source": "main",
             "Name": "helm",
-            "Source": "main"
+            "Version": "3.16.4",
+            "Updated": "\/Date(1734425307863)\/"
         },
         {
-            "Updated": "2024-10-10T09:06:54.9343004-03:00",
-            "Version": "3.3.3_b3",
             "Info": "",
+            "Source": "nonportable",
             "Name": "icaros-np",
-            "Source": "nonportable"
+            "Version": "3.3.3",
+            "Updated": "\/Date(1734425327398)\/"
         },
         {
-            "Updated": "2024-11-16T17:01:42.8709258-03:00",
-            "Version": "1.76",
             "Info": "",
+            "Source": "extras",
+            "Name": "imageglass",
+            "Version": "9.2.0.1208",
+            "Updated": "\/Date(1734468001218)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
             "Name": "innounp",
-            "Source": "main"
+            "Version": "1.76",
+            "Updated": "\/Date(1734425330227)\/"
         },
         {
-            "Updated": "2024-10-31T09:03:57.9785123-03:00",
-            "Version": "10.1.1",
             "Info": "",
+            "Source": "extras",
             "Name": "insomnia",
-            "Source": "extras"
+            "Version": "10.2.0",
+            "Updated": "\/Date(1734425353635)\/"
         },
         {
-            "Updated": "2024-10-31T09:04:14.9406575-03:00",
-            "Version": "1.31.2",
             "Info": "",
+            "Source": "main",
             "Name": "kubectl",
-            "Source": "main"
+            "Version": "1.32.0",
+            "Updated": "\/Date(1734425358995)\/"
         },
         {
-            "Updated": "2024-11-16T17:06:12.0213884-03:00",
-            "Version": "2024.11.131815-latest",
             "Info": "",
+            "Source": "extras",
             "Name": "lens",
-            "Source": "extras"
+            "Version": "2024.11.261604-latest",
+            "Updated": "\/Date(1734425395218)\/"
         },
         {
-            "Updated": "2024-11-19T11:55:05.5562176-03:00",
-            "Version": "4.22",
             "Info": "",
+            "Source": "extras",
+            "Name": "LibreHardwareMonitor",
+            "Version": "0.9.4",
+            "Updated": "\/Date(1734454976909)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
             "Name": "linux-reader",
-            "Source": "extras"
+            "Version": "4.22",
+            "Updated": "\/Date(1734425405625)\/"
         },
         {
-            "Updated": "2024-08-19T08:15:54.9639967-03:00",
-            "Version": "3.9.9",
             "Info": "",
+            "Source": "main",
             "Name": "maven",
-            "Source": "main"
+            "Version": "3.9.9",
+            "Updated": "\/Date(1734425410125)\/"
         },
         {
-            "Updated": "2024-10-08T15:40:03.1632974-03:00",
-            "Version": "0.39.0",
             "Info": "",
+            "Source": "extras",
             "Name": "mpv",
-            "Source": "extras"
+            "Version": "0.39.0",
+            "Updated": "\/Date(1734425420439)\/"
         },
         {
-            "Updated": "2024-03-28T21:10:24.2082158-03:00",
-            "Version": "3.26",
             "Info": "",
+            "Source": "extras",
             "Name": "nekoray",
-            "Source": "extras"
+            "Version": "4.0.1",
+            "Updated": "\/Date(1734425426658)\/"
         },
         {
-            "Updated": "2024-11-12T11:35:32.3365627-03:00",
-            "Version": "7.1.0",
             "Info": "",
+            "Source": "main",
             "Name": "neofetch",
-            "Source": "main"
+            "Version": "7.1.0",
+            "Updated": "\/Date(1734425427705)\/"
         },
         {
-            "Updated": "2024-10-31T09:08:01.6697293-03:00",
-            "Version": "22.11.0",
             "Info": "",
+            "Source": "main",
             "Name": "nodejs-lts",
-            "Source": "main"
+            "Version": "22.12.0",
+            "Updated": "\/Date(1734425437347)\/"
         },
         {
-            "Updated": "2024-03-28T21:00:14.0688092-03:00",
-            "Version": "3.16.1709",
             "Info": "",
+            "Source": "extras",
             "Name": "nomacs",
-            "Source": "extras"
+            "Version": "3.16.1709",
+            "Updated": "\/Date(1734425442973)\/"
         },
         {
-            "Updated": "2024-03-28T21:09:57.1497357-03:00",
-            "Version": "17.0.2-8",
             "Info": "",
+            "Source": "main",
+            "Name": "oh-my-posh",
+            "Version": "24.13.1",
+            "Updated": "\/Date(1734469659224)\/"
+        },
+        {
+            "Info": "",
+            "Source": "java",
             "Name": "openjdk17",
-            "Source": "java"
+            "Version": "17.0.2-8",
+            "Updated": "\/Date(1734425460474)\/"
         },
         {
-            "Updated": "2024-11-16T17:02:05.3332593-03:00",
-            "Version": "1.8.5",
             "Info": "",
+            "Source": "main",
             "Name": "opentofu",
-            "Source": "main"
+            "Version": "1.8.7",
+            "Updated": "\/Date(1734425465756)\/"
         },
         {
-            "Updated": "2024-10-07T21:18:37.250148-03:00",
-            "Version": "3.13.0",
             "Info": "",
+            "Source": "main",
             "Name": "python",
-            "Source": "main"
-        },
-        {
-            "Updated": "2024-11-18T13:32:50.9180856-03:00",
-            "Version": "5.0.2",
-            "Info": "",
-            "Name": "qbittorrent",
-            "Source": "extras"
-        },
-        {
-            "Updated": "2024-07-11T15:20:57.5441762-03:00",
-            "Version": "1.5.0",
-            "Info": "",
-            "Name": "scoop-search",
-            "Source": "main"
-        },
-        {
-            "Updated": "2024-10-17T17:07:10.1350958-03:00",
             "Version": "3.13.1",
+            "Updated": "\/Date(1734425488851)\/"
+        },
+        {
             "Info": "",
+            "Source": "extras",
+            "Name": "qbittorrent",
+            "Version": "5.0.2",
+            "Updated": "\/Date(1734425508572)\/"
+        },
+        {
+            "Info": "",
+            "Source": "main",
+            "Name": "scoop-search",
+            "Version": "1.5.0",
+            "Updated": "\/Date(1734425510369)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
             "Name": "sqlitebrowser",
-            "Source": "extras"
+            "Version": "3.13.1",
+            "Updated": "\/Date(1734425514666)\/"
         },
         {
-            "Updated": "2024-06-03T20:50:23.6010655-03:00",
-            "Version": "4.4.168",
             "Info": "",
+            "Source": "games",
+            "Name": "steam",
+            "Version": "nightly-20241216",
+            "Updated": "\/Date(1734397027714)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
             "Name": "stremio",
-            "Source": "extras"
+            "Version": "4.4.168",
+            "Updated": "\/Date(1734425526730)\/"
         },
         {
-            "Updated": "2024-06-21T12:49:02.2610581-03:00",
-            "Version": "0.2020.01.26",
             "Info": "",
+            "Source": "main",
             "Name": "sudo",
-            "Source": "main"
+            "Version": "0.2020.01.26",
+            "Updated": "\/Date(1734425102143)\/"
         },
         {
-            "Updated": "2024-11-18T13:32:59.3622581-03:00",
-            "Version": "5.8.1",
             "Info": "",
+            "Source": "extras",
             "Name": "telegram",
-            "Source": "extras"
+            "Version": "5.9.0",
+            "Updated": "\/Date(1734425535543)\/"
         },
         {
-            "Updated": "2024-04-22T21:32:58.3264359-03:00",
-            "Version": "9.1.0363",
             "Info": "",
+            "Source": "main",
             "Name": "vim",
-            "Source": "main"
+            "Version": "9.1.0",
+            "Updated": "\/Date(1734425545201)\/"
         },
         {
-            "Updated": "2024-11-16T17:07:23.0491118-03:00",
-            "Version": "1.95.3",
             "Info": "",
+            "Source": "extras",
             "Name": "vscode",
-            "Source": "extras"
+            "Version": "1.96.0",
+            "Updated": "\/Date(1734425562562)\/"
         },
         {
-            "Updated": "2024-10-12T15:15:28.8727452-03:00",
-            "Version": "1.21.4",
             "Info": "",
+            "Source": "main",
             "Name": "wget",
-            "Source": "main"
+            "Version": "1.21.4",
+            "Updated": "\/Date(1734425567031)\/"
         },
         {
-            "Updated": "2024-10-31T09:08:56.0206646-03:00",
-            "Version": "2.0.3",
             "Info": "",
+            "Source": "extras",
             "Name": "windirstat",
-            "Source": "extras"
+            "Version": "2.1.1",
+            "Updated": "\/Date(1734425569266)\/"
+        },
+        {
+            "Info": "",
+            "Source": "extras",
+            "Name": "windows-terminal",
+            "Version": "1.21.3231.0",
+            "Updated": "\/Date(1734468761117)\/"
         }
     ]
 }
